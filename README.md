@@ -1,3 +1,76 @@
+# Leinsterskateparks
+
+The purpose of this website is to allow anyone with an ability or interest in skating to get information on some of Leinsters best skateparks as well as encourage meet ups and socialising amongst the limited skaters/ rollerblader and scooterists of Ireland. As a young skater growing up around the Leinster area I often spent lots of time researching good skateparks to visit. Most young skaters like myself would have to use public transport in order to get from A to B and living in Ireland, the day was going to be weather dependant. So having easy access to some of Leinsters best skateparks would save a lot of time researching and hopefully let groups of interesting and talented skaters get together to help grow the sport in Ireland.
+
+The website is made of HTML, CSS and Bootstrap. The project is related to User Expereince so I have decided to use bright vibrant imagery for my backdrop in order to engage and attract the view of the user. The navigation and layout is also made to be easy for anyone to use with a mobile reponsive navigation bar at the top of the website which will remian throughout my 3 pager strucutre. 
+
+
+
+Page 1: The Home section of this site is going to have a brief about section explaining the purpose of the website as well as its capabilities.
+
+Page 2: The Parks section of the site will contain a list of some of Leinsters top rated skateparks, these will be in order of personal preference and usability of each parks features/ ramps/ rails etc. I intend for this page to have a ordered top 10 list with an image and description of the park. As well as this I intend to include a difficulty progress bar under each skatepark. 
+
+Page 3: The Contact page will be a registery form to get contacted about weekly meet ups that take place each weekend throughout the month at a different park.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome USER_NAME,
