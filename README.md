@@ -5,7 +5,13 @@ The purpose of this website is to allow anyone with an ability or interest in sk
 The website is made of HTML, CSS and Bootstrap. The project is related to User Expereince so I have decided to use bright vibrant imagery for my backdrop in order to engage and attract the view of the user. The navigation and layout is also made to be easy for anyone to use with a mobile reponsive navigation bar at the top of the website which will remian throughout my 3 pager structure. 
 
  
- 
+ # Features
+
+ ## Imagery 
+ Home page Image: (https://images.pexels.com/photos/3006223/pexels-photo-3006223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+Skate parks Image is the smae as Home (https://images.pexels.com/photos/3006223/pexels-photo-3006223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+
+This will contain animation to highlight and bring the imageery to the users attention.
  
  ## Navigation Bar:
  This will contain a Home, Skateparks and Contact Page. This will remain the same across all site pages and will follow the user as they scroll to ensure the best overall User Experience.
@@ -25,12 +31,17 @@ As well as the contact form this page will also contain a section about why the 
 This will also contain several links to social media pages for the group as well as a disclaimer about kids in the group being required to have a guardian present.
 
 
-# Features
+### Callout
+There will be a callout to highlight the next meet up time and date.
 
-There will be a callout disclaimer on the sign up page requiring children under 18 to have a guardian present when meeting the social group.
+## Credit
 
+So far the project has been written out of revision of previous modules.
 
-
+#### Images
+Home page Image: (https://images.pexels.com/photos/3006223/pexels-photo-3006223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+Skate parks Image is the smae as Home (https://images.pexels.com/photos/3006223/pexels-photo-3006223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+Contcat page will have picture with various skaters (https://images.pexels.com/photos/3006223/pexels-photo-3006223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 
 
 
