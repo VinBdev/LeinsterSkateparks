@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+/* HEADER */
+header{
+    background-color: #fafafa; 
+} 
+ 
+#hero-image{
+    height:800px;
+    width: 100%;
+    background: url("../images/SkateparksIreland-hero-image.jpeg") no-repeat center center ;
+    background-size: cover;
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    z-index: 1;
+    object-fit: fill;
+    object-position: center;
+}
+
+#hero-outer{
+    height:800px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.07);
+    }
+}
+
+@media screen and (max-width: 600px) {
+  .cover-text {
+    font-size: 30px;
+    justify-content: center;
+  }
+  .h1 {
+      font-size: 3rem;
+  }
+}
+@media screen and (min-width: 601px) {
+  .cover-text {
+    font-size: 80px;
+  }
+  .h1 {
+      font-size: 2rem;
+  }
+}
+
+#cover-text, #cover-text h2 {
+    color: rgb(8, 8, 7); 
+}
+
+#cover-text {
+    font-size: 110%;
+    font-family: Oswald;
+    text-transform: uppercase;
+    letter-spacing: 3px; 
+    border-width: 5px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-right: 10px;
+
+    background-color: #eeaeae65;
+
+    bottom: 30px;
+    left: 120px;
+
+    position: absolute;
+
+}
+
+/* NAVBAR */
+/* NAVBAR */
+ .navbar-default { 
+    border-color: #E7E7E7;  
+    color: #E7E7E7;
+}
+
+.navbar-text {
+    color: #E7E7E7;
+}
+
+ /* Footer */
+footer {
+    height: 150px;
+}
+/* social links */
+.social-networks {
+    text-align: center;
+}
+.social-networks li {
+    display: inline;
+}
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #777777;
+}
+/* Body */
+body {
+    background-color: #FCDEC0; 
+    font-family: roboto, sans-serif; 
+    font-size: 1.3rem;
+    color: #023047;
+}
